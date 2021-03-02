@@ -20,7 +20,7 @@
 A barcode supported price comparison application has been developed.A mobile barcode scanner application has been developed that can identify the product in your hand using the barcode and compare prices, where the stocks are, how many stocks are available over the internet.Listed by app search and price shown by app for online and offline outlets.
 
 
-### [Back To The Top](#Software-Architecture-for-Natural-Disaster)
+### [Back To The Top](#Mobile-Barcode-Scanner-Application)
 
 ---
 
@@ -35,7 +35,7 @@ In this barcode supported price comparison application, the only number added to
 
 
 
-### [Back To The Top](#Software-Architecture-for-Natural-Disaster)
+### [Back To The Top](#Mobile-Barcode-Scanner-Application)
 
 ---
 
@@ -44,7 +44,7 @@ In this barcode supported price comparison application, the only number added to
 
 Interfaces are given below:
 
-[XD]()
+![XD]()
 
 ---
 
@@ -56,7 +56,7 @@ Interfaces are given below:
 - Google vision API
 
 
-### [Back To The Top](#Software-Architecture-for-Natural-Disaster)
+### [Back To The Top](#Mobile-Barcode-Scanner-Application)
 
 ---
 
